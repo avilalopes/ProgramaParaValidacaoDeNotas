@@ -1,0 +1,16 @@
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.exe
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.deps.json
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.runtimeconfig.json
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.runtimeconfig.dev.json
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.dll
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ref\ProgramaParaValidaçãoDeNotas.dll
+D:\git\ProgramaParaValidaçãoDeNotas\bin\Debug\net5.0\ProgramaParaValidaçãoDeNotas.pdb
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.csprojAssemblyReference.cache
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.AssemblyInfoInputs.cache
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.AssemblyInfo.cs
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.csproj.CoreCompileInputs.cache
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.dll
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ref\ProgramaParaValidaçãoDeNotas.dll
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.pdb
+D:\git\ProgramaParaValidaçãoDeNotas\obj\Debug\net5.0\ProgramaParaValidaçãoDeNotas.genruntimeconfig.cache
